@@ -12,7 +12,9 @@ Jerry Young/"Pitfall Jerry" YouTube channel is here:  https://www.youtube.com/ch
 YouTube streaming episodes:
 
 Episode 294:  https://youtu.be/fKUFz4vzWK0
+
 Episode 295:  https://youtu.be/dTgWKNRJXzA
+
 Episode 296:  https://youtu.be/e03FYQs5KLY
 
 ---
