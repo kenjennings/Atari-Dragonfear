@@ -18,3 +18,7 @@ Episode 295:  https://youtu.be/dTgWKNRJXzA
 Episode 296:  https://youtu.be/e03FYQs5KLY
 
 ---
+
+"ORIGINAL" in the file name means this is a file that was acquired before any of my personal hacking.  The "EDIT" files are the resulting mess I make. 
+
+---
