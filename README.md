@@ -21,8 +21,10 @@ Episode 296:  https://youtu.be/e03FYQs5KLY
 
 "ORIGINAL" in the file name means this is a file that was acquired before any of my personal hacking.  The "EDIT" files are the resulting mess I make. 
 
-202-07-14 - Modified to replace the numeric array with a string.  This allows the screen redraw to be donw with one PRINT directly to the screen instead of looping through the numeric array and converting each element to a character.
+2020-07-14 - Modified to replace the numeric array with a string.  This allows the screen redraw to be donw with one PRINT directly to the screen instead of looping through the numeric array and converting each element to a character.
 
-2020-02-27 - Added Routine at 2100 to provide joystick input instead of keyboard.   The bulk of the remaining program is unchanged.  Only the INPUT Z$ is changed to GOSUB to the joystick reading routine.  The Joystick routine populates Z$ with the character that would have been typed from the keyboard. 
+2020-07-27 - Added Routine at 2100 to provide joystick input instead of keyboard.   The bulk of the remaining program is unchanged.  Only the INPUT Z$ is changed to GOSUB to the joystick reading routine.  The Joystick routine populates Z$ with the character that would have been typed from the keyboard. 
+
+2020-07-28 - Derp!  The string initialization in line 2019 was wrong.  Updated the 07-27 version to 07-28.
 
 ---
