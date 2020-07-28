@@ -31,6 +31,6 @@ THIS -> 2019 A$=" ":A$(2)=A$:REM BLANK THE STRING
 
 SHOULD BE-> 2019 A$=" ":**A$(300)=" "**:A$(2)=A$:REM BLANK THE STRING
 
-Updated the 07-27 version to 07-28.
+Updated the 07-27 version to 07-28 for this problem.
 
 ---
