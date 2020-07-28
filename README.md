@@ -25,7 +25,7 @@ Episode 296:  https://youtu.be/e03FYQs5KLY
 
 **2020-07-27** - Added Routine at 2100 to provide joystick input instead of keyboard.   The bulk of the remaining program is unchanged.  Only the INPUT Z$ is changed to GOSUB to the joystick reading routine.  The Joystick routine populates Z$ with the character that would have been typed from the keyboard. 
 
-**2020-07-28** - Derp!  The string initialization in line 2019 was wrong.  
+**2020-07-28** - Derp!  The string initialization for the screen buffer in line 2019 was wrong.  
 
 THIS -> 2019 A$=" ":A$(2)=A$:REM BLANK THE STRING
 
